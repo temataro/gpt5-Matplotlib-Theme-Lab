@@ -1,0 +1,16 @@
+#  ===============================
+#  backend/app/assets/computermodern.mplstyle
+#  ===============================
+# Minimal CM-inspired base style used if user doesn't upload one.
+# NOTE: We avoid cmr10 due to missing Greek glyphs per user direction.
+font.family: Inter
+mathtext.fontset: stix
+font.size: 9.5
+axes.titlesize: 12
+axes.labelsize: 10
+xtick.labelsize: 9
+ytick.labelsize: 9
+lines.linewidth: 1.2
+axes.linewidth: 0.8
+
+
