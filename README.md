@@ -5,7 +5,9 @@ rcParams at work and get a sensible, pretty plot generator that I can plug any
 random color palette into.
 For ~2 hours of corralling and instructing, not too bad!
                                                             - Tem
-![](Matplotlib-Themer-Demo.mp4)
+
+                                                            
+[demo](Matplotlib-Themer-Demo.mp4)
 
 # Matplotlib Theme Lab (React + FastAPI)
 
