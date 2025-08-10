@@ -9,6 +9,11 @@ For ~2 hours of corralling and instructing, not too bad!
                                                             
 [demo](Matplotlib-Themer-Demo.mp4)
 
+### TODOs
+
+* Outputted json and mplstyle files _look_ right but really aren't. Ensure properly formatted rcParams are written to files.
+* Color cycler with realtime updates from the parameter editor window.
+
 # Matplotlib Theme Lab (React + FastAPI)
 
 A highly interactive web app to evaluate and fine-tune Matplotlib themes for publication-quality figures.
